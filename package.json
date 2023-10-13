@@ -1,0 +1,21 @@
+{
+  "name": "moleculer-easy-amqp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forattini-dev/moleculer-easy-amqp.git"
+  },
+  "author": "fforattini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forattini-dev/moleculer-easy-amqp/issues"
+  },
+  "homepage": "https://github.com/forattini-dev/moleculer-easy-amqp#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "cron": "^2.2.0",
+    "lodash": "^4.17.21"
+  }
+}
